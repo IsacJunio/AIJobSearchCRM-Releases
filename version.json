@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0",
+  "minRequiredVersion": "2.0.0",
+  "releaseNotes": "• Agregador de Editais de Concursos Públicos em tempo real (PCI Concursos + Concursos no Brasil)\n• Botão dedicado de Concursos no Radar de Vagas com filtros por UF e cargo\n• Correção de layout e acentuação no modo escuro\n• Sistema de verificação de atualizações automáticas e preservação de dados",
+  "downloadUrl": "https://github.com/IsacJunio/AIJobSearchCRM-Releases/releases/latest/download/AIJobSearchCRM-v2.0-Portatil.zip"
+}
+
