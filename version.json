@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "minRequiredVersion": "2.0.0",
-  "releaseNotes": "🎉 Novidades da Versão 2.1.0:\n• Atualizador Automático In-App: Baixa e instala novas versões sem sair do aplicativo\n• Preservação total do banco de dados SQLite e histórico de candidaturas\n• Agregador de Concursos Públicos integrado ao Radar de Vagas\n• Notificações visuais e sonoras no Kanban de vagas",
+  "releaseNotes": "🎉 Versão 2.2.0 Oficial:\n• Rastreamento Inteligente de E-mails com IA (IMAP SSL Seguro)\n• Notificações Nativas no Windows ao avançar de fase no processo seletivo\n• Movimentação Automática de Cards no Kanban (Inscrição ➔ Teste Técnico ➔ Entrevista ➔ Proposta)\n• Atualizador Automático In-App com Barra de Progresso e Preservação de Dados\n• Agregador de Concursos Públicos integrado ao Radar de Vagas",
   "downloadUrl": "https://github.com/IsacJunio/AIJobSearchCRM-Releases/releases/latest/download/AIJobSearchCRM-v2.0-Portatil.zip"
 }
